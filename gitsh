@@ -1,0 +1,7 @@
+git config --global user.name "ngx2333"
+git config --global user.email "ngx2333@163.com"
+#chmod 0600 /root/.ssh/id_rsa
+
+
+git remote add origin git@github.com
+git config core.excludesfile .gitignore
